@@ -1,4 +1,5 @@
 🚗 Car Price Prediction Model
+
 This project successfully builds a machine learning pipeline to predict car prices using relevant features.
 EDA helped identify key factors influencing car prices, such as year, mileage, and brand.
 Multiple models were evaluated, with Random Forest and XGBoost providing strong performance.
